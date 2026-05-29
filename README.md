@@ -31,3 +31,30 @@ LinkedIn: www.linkedin.com/in/anuj-purbe
 
 ![](https://komarev.com/ghpvc/?username=anujpurbe&label=Profile%20Views&color=blue&style=flat)
 
+## 👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=anujpurbe&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+
+<div align="center">
+
+## 👀 Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=anujpurbe&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=anujpurbe&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
+
+![GitHub followers](https://img.shields.io/github/followers/anujpurbe?style=for-the-badge)
+
+</div>
+
+<h1 align="center">Hi 👋, I'm Anuj Purbe</h1>
+
+<h3 align="center">Computer Engineering Student | Java Developer | Python Enthusiast</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anujpurbe&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
