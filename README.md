@@ -17,7 +17,7 @@ LinkedIn: www.linkedin.com/in/anuj-purbe
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujpurbe&show_icons=true&theme=tokyonight)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujpurbe)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujpurbe&layout=compact&theme=tokyonight)
 
