@@ -65,10 +65,6 @@ Collection of Data Structures and Algorithms solutions.
 
 ## 📊 3D Contribution Calendar
 
-![3D Contribution Calendar](https://github.com/anujpurbe/anujpurbe/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-## 📊 3D Contribution Calendar
-
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
 </p>
