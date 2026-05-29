@@ -58,11 +58,11 @@ LinkedIn: www.linkedin.com/in/anuj-purbe
 
 ## 🚀 Featured Projects
 
-### 📚 Student Management System
-Java-based application for managing student records.
+### 🍔 FoodieHub
+Modern food ordering website with responsive design and interactive UI.
 
-### 🔋 Smart Battery Monitoring System
-Battery monitoring and analysis project.
+### 🔋 Atomic Battery Endurance Analysis
+Research-oriented platform for analyzing atomic battery lifespan, endurance, and energy density characteristics.
 
 ### 💻 DSA Practice Repository
 Collection of Data Structures and Algorithms solutions.
