@@ -22,10 +22,6 @@
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-## Connect with Me
-
-LinkedIn: www.linkedin.com/in/anuj-purbe
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anujpurbe&show_icons=true&theme=tokyonight)
@@ -62,3 +58,7 @@ Research-oriented platform for analyzing atomic battery lifespan, endurance, and
 
 ### 💻 DSA Practice Repository
 Collection of Data Structures and Algorithms solutions.
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anuj%20Purbe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-purbe)
