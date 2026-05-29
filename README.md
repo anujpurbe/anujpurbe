@@ -10,14 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Java+Developer;Python+Developer;SQL+Learner;Future+Software+Engineer" />
 </p>
 
-## 👨‍💻 About Me
-
-- 🌱 Learning Java, Python and SQL
-- 💻 Building Projects
-- 🎯 Preparing for Placements
-- 📍 Nepal/India
-- 🚀 Aspiring Software Engineer
-
 ## 🚀 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
