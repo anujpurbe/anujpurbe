@@ -1,15 +1,18 @@
-# Hi 👋, I'm Anuj Purbe
+<h1 align="center">Hi 👋, I'm Anuj Purbe</h1>
+
+<h3 align="center">Computer Engineering Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Java+Developer;Python+Developer;SQL+Learner;Future+Software+Engineer" />
 </p>
 
-### Computer Engineering Student
+## 👨‍💻 About Me
 
 - 🌱 Learning Java, Python and SQL
 - 💻 Building Projects
 - 🎯 Preparing for Placements
-- 📍 Nepal
+- 📍 Nepal/India
+- 🚀 Aspiring Software Engineer
 
 ## 🚀 Tech Stack
 
@@ -52,3 +55,14 @@ LinkedIn: www.linkedin.com/in/anuj-purbe
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anujpurbe&theme=tokyo-night)
+
+## 🚀 Featured Projects
+
+### 📚 Student Management System
+Java-based application for managing student records.
+
+### 🔋 Smart Battery Monitoring System
+Battery monitoring and analysis project.
+
+### 💻 DSA Practice Repository
+Collection of Data Structures and Algorithms solutions.
