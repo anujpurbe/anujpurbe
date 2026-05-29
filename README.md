@@ -14,3 +14,13 @@ Java | Python | SQL | HTML | CSS
 ## Connect with Me
 
 LinkedIn: www.linkedin.com/in/anuj-purbe
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujpurbe&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujpurbe&layout=compact&theme=tokyonight)
+
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anujpurbe&theme=tokyonight)
