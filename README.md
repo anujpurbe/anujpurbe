@@ -48,3 +48,7 @@ LinkedIn: www.linkedin.com/in/anuj-purbe
 ![GitHub followers](https://img.shields.io/github/followers/anujpurbe?style=for-the-badge)
 
 </div>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anujpurbe&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
