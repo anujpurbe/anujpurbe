@@ -49,6 +49,6 @@ LinkedIn: www.linkedin.com/in/anuj-purbe
 
 </div>
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anujpurbe&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anujpurbe&theme=tokyo-night)
