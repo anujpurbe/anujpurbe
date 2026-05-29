@@ -27,6 +27,8 @@ LinkedIn: www.linkedin.com/in/anuj-purbe
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anujpurbe&theme=tokyonight)
 
+## 👀 Visitors
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anujpurbe&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
@@ -34,5 +36,3 @@ LinkedIn: www.linkedin.com/in/anuj-purbe
 ![GitHub followers](https://img.shields.io/github/followers/anujpurbe?style=for-the-badge)
 
 </div>
-
-
