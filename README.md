@@ -17,9 +17,9 @@ LinkedIn: www.linkedin.com/in/anuj-purbe
 
 ## GitHub Stats
 
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujpurbe)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujpurbe&show_icons=true&rank_icon=github&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujpurbe&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujpurbe&layout=compact&theme=tokyonight&hide_border=true)
 
 ## GitHub Streak
 
