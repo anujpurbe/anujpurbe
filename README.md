@@ -41,9 +41,11 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anujpurbe&theme=tokyonight)
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anujpurbe&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujpurbe&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity" />
+</p>
 
 ## 🚀 Featured Projects
 
