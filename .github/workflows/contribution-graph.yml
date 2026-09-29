@@ -16,7 +16,7 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Generate contribution chart
+      - name: Generate contribution charts
         uses: dturovskiy/deus-commit-chart@v1
         with:
           username: ${{ github.repository_owner }}
@@ -26,7 +26,7 @@ jobs:
           layout: spacious
           output-dir: activity-dist
 
-      - name: Publish generated chart
+      - name: Publish generated charts
         env:
           TARGET_BRANCH: activity-assets
         run: |
