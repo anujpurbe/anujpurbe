@@ -47,7 +47,7 @@
   <img
     src="https://raw.githubusercontent.com/anujpurbe/anujpurbe/activity-assets/activity-365d.svg"
     width="95%"
-    alt="Anuj's GitHub Contribution Graph"
+    alt="Anuj's GitHub Contribution Graph" 
   />
 </p>
 
