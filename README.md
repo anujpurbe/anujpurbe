@@ -41,7 +41,15 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anujpurbe&theme=tokyonight)
 
+## 📈 Anuj's GitHub Contribution Graph
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/anujpurbe/anujpurbe/activity-assets/activity-365d.svg"
+    width="95%"
+    alt="Anuj's GitHub Contribution Graph"
+  />
+</p>
 
 ## 🚀 Featured Projects
 
