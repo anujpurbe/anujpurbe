@@ -12,37 +12,34 @@
 
 ## 🚀 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,sql" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs" />
+</p>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+### 🛠️ Tools & Platforms
 
-## GitHub Stats
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,supabase" />
+</p>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anujpurbe&show_icons=true&theme=tokyonight)
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anujpurbe&layout=compact&theme=tokyonight)
-
-## Tech Stack
+<p align="center">
+  <img src="./profile/stats.svg" width="49%" />
+  <img src="./profile/top-langs.svg" width="49%" />
+</p>
 
 ## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anujpurbe&theme=tokyonight)
-
-## 👀 Visitors
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=anujpurbe&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
-
-![GitHub followers](https://img.shields.io/github/followers/anujpurbe?style=for-the-badge)
-
-</div>
 
 ## 📈 Contribution Graph
 
